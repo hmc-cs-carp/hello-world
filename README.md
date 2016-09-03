@@ -1,2 +1,3 @@
 # hello-world
-git tutorial
+
+This is for the Git tutorial 
